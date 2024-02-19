@@ -4,6 +4,7 @@ Hi 👋, I'm Shendy | Mobile Apps Developer
 
 Languages and Tools:
 
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>](https://developer.apple.com/swift/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>](https://developer.android.com)
 [<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>](https://dart.dev)
 [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>](https://www.figma.com/)
@@ -13,6 +14,6 @@ Languages and Tools:
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>](https://www.java.com)
 [<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>](https://postman.com)
 [<img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/>](https://realm.io/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>](https://developer.apple.com/swift/)
+
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shenditya&show_icons=true&locale=en&layout=compact" alt="shenditya" />
