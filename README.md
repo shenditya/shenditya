@@ -16,6 +16,3 @@ Languages and Tools:
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>](https://developer.apple.com/swift/)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shenditya&show_icons=true&locale=en&layout=compact" alt="shenditya" />
-
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shenditya&" alt="shenditya" />
