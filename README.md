@@ -1,7 +1,5 @@
 Hi 👋, I'm Shendy | Mobile Apps Developer
 
-🌱 I’m currently learning **Flutter**
-
 Languages and Tools:
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>](https://developer.apple.com/swift/)
